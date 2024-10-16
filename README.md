@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Commerce-Using-Flask
 
 ### Features implemented:
@@ -51,3 +52,6 @@
 </ol>
  
  
+=======
+# flask-ecommerce-webapplication
+>>>>>>> f4fcdca3c7bddf07c4f465b9cd31acde505d29fa
