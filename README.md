@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # E-Commerce-Using-Flask
 
 ### Features implemented:
@@ -50,8 +50,3 @@
   <li>Admin Edit/Remove Brand Page: </li><br>
   <img src="https://github.com/ChiragSaini/E-Commerce-Using-Flask/blob/master/Screenshots/admin_brands_page.PNG"><br><br>
 </ol>
- 
- 
-=======
-# flask-ecommerce-webapplication
->>>>>>> f4fcdca3c7bddf07c4f465b9cd31acde505d29fa
